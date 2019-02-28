@@ -1,0 +1,15 @@
+
+* {
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+
+body {
+	background: #333333;
+}
+
+.country {
+	fill: #D3D3D3;
+	opacity: 0.6;
+}
